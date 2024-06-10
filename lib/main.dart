@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Vexeroo', // Replace 'Your App Name' with your app's name
+      title: 'baIDEvs', // Replace 'Your App Name' with your app's name
       theme: ThemeData(
         primarySwatch: Colors.blue, // Adjust the primary color as needed
         appBarTheme: const AppBarTheme(
