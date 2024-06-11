@@ -16,7 +16,7 @@ const output = document.querySelector('.output');
 
 form.onsubmit = async ev => {
   ev.preventDefault();
-  output.textContent = 'Generating...';
+  output.textContent = ' baiDEV is Generating...';
 
   try {
     // Load the image as a base64 string

@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta
+ name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Chatbot</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-top">
+                <ul>
+                    <li><a href="#" class="active">Home</a></li>
+                    <li><a href="#">Profile</a></li>
+                    <li><a href="#">Extensions</a></li>
+                    <!-- Add more options as needed -->
+                </ul>
+            </div>
+            <div class="sidebar-bottom">
+                <ul>
+                    <li><a href="#">Profile</a></li>
+                    <li><a href="#" id="settingsBtn">Settings</a></li>
+                    <li><a href="#">Theme Switcher</a></li>
+                    <li><a href="#">Log Out/Add Account</a></li>
+                </ul>
+            </div>
+        </aside>
+
+        <main class="chat-area">
+            <div class="chat-modes">
+                <button class="mode-tab active">Ordinary Mode</button>
+                <button class="mode-tab">Creative Mode</button>
+                <button class="mode-tab">Coding Mode</button>
+            </div>
+            <div class="chat-history" id="chatHistory">
+                <!-- Chat messages will be displayed here -->
+            </div>
+            <div class="input-area">
+                <input type="text" id="userInput" placeholder="Type your message here...">
+                <div class="input-icons">
+                    <button><i class="fas fa-paperclip"></i></button>
+                    <button><i class="fas fa-microphone"></i></button>
+                    <button><i class="fas fa-video"></i></button>
+                    <button><i class="fas fa-globe"></i></button>
+                    <!-- Add more icons as needed -->
+                </div>
+            </div>

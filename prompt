@@ -1,0 +1,13 @@
+create me a well written, error free html page with these features:
+
+1. this html page is the main homepage of a chatbot/AI
+2. This page should be fully dynamic, able to adapt to different screens; mobile, desktop etc.
+3. the entire background of the page should be wood brown color, while the side bar will be a more darker shade of that (in light mode, that would be white and light-brown respectively)
+4. the sidebar should contain options like profile, home, extensions, etc and much lower, things like 'profile', 'settings', and 'theme switcher', 'log out/add account'.
+5. the sidebar itself can be switched from left to right side (this is one of the options in the settings panel).
+6. clicking the settings icon opens a 'settings' tab in a centralised overlay (which blurs every other page content) rectangular command palette at the centre of the screen (the tabs are 'account', 'settings', and 'advanced').
+6. The main chatbot page should be stylishly designed and centralized, with there being three chat modes as tabs directlu on the page just above the actual chatting pane: 'ordinary mode', 'creative mode' and 'coding mode'.
+7. Below the mode, there is the main chat area, whose bottom contains an input bar where users type therir prompts (with small icons for other modes like attachment, microphone, camera, use-page context, etc at the right end of the input bar).
+8. note that the area between the input bar and the chat modes' tab should be the area of the actual chats; scrollable to reveal previous chats, and scrolls up on new chats and so on.
+
+add other features as necessary.
